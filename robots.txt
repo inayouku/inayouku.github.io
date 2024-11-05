@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inayouku.github.io/KIf/sitemap_index.txt
+Sitemap: https://inayouku.github.io/UPJ/sitemap_index.txt
+Sitemap: https://inayouku.github.io/kdC/sitemap_index.txt
+Sitemap: https://inayouku.github.io/owa/sitemap_index.txt
